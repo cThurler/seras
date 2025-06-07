@@ -5,6 +5,8 @@ Este é um sistema CRUD desenvolvido em Java 17 com objetivos de experimentaçã
 
 Foi criado com o hipótetico uso interno em uma empresa de empréstimos primitiva.
 
+> API Restful em [serasRESTful-Spring](https://github.com/cThurler/serasRESTful-Spring)
+
 ## Funcionalidades Principais
 
 ### Para Usuários Não Logados
