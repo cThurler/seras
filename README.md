@@ -1,3 +1,5 @@
+> API Restful em [serasRESTful-Spring](https://github.com/cThurler/serasRESTful-Spring)
+
 # Seras / Sistema de Gerenciamento de Empréstimos
 **Este projeto conta com uma interface visual primitiva**
 
